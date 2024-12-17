@@ -82,7 +82,7 @@
     "rxjs": "^6.6.3",
     "stripe": "^8.130.0",
     "swagger-ui-express": "^4.1.6",
-    "twilio": "^3.54.2",
+    "twilio": "^5.4.0",
     "ua-parser-js": "^0.7.23",
     "uuid": "^8.3.2"
   },
